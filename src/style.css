@@ -1,0 +1,10 @@
+body {
+  background-color: #1e1e1e;
+  color: #d4d4d4;
+}
+
+.status-node {
+  position: absolute;
+  bottom: 0.5em;
+  left: 3ex;
+}
