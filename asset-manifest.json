@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vimtutor/static/css/main.83b53351.css",
+    "main.js": "/vimtutor/static/js/main.109da1fd.js",
+    "index.html": "/vimtutor/index.html",
+    "main.83b53351.css.map": "/vimtutor/static/css/main.83b53351.css.map",
+    "main.109da1fd.js.map": "/vimtutor/static/js/main.109da1fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83b53351.css",
+    "static/js/main.109da1fd.js"
+  ]
+}
